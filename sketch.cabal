@@ -22,6 +22,8 @@ library
                      , hmatrix-gsl
                      , text
                      , megaparsec
+                     , Chart
+                     , Chart-diagrams
                      , scientific
                      , transformers
                      , pipes
